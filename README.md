@@ -8,7 +8,9 @@ I have a special talent for computer programming, WebPage constructing and graph
 
 🔭 I'm currently working on a variety of projects, including:
 - _[Semafix](https://github.com/SaturniNovaDev/Semafix)_, a software that controls traffic automatically
-- __
+- _[Vertex Engine](https://github.com/Migueldev67/VertexEngine)_, a videogame engine with various advanced features
+
+  And more to come!
 
 🌱 I'm currently learning many languages, including Python, JavaScript, C and C++.
 
