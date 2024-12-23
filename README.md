@@ -17,3 +17,6 @@ I have a special talent for computer programming, WebPage constructing and graph
 👯 I'm looking to collaborate on projects that need user feedback and/or early development testing.
 
 ⚡ Fun fact: I started programming when I was 11 years old.
+
+The most important thing I look for when building an app is that it does not require any additional libraries
+and is ready to use out of the box.
