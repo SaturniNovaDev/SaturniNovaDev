@@ -4,13 +4,7 @@ My name is Peter Vega and I'm a young developer from Venezuela.
 I have a special talent for computer programming, WebPage constructing and graphic design.
 
 ## Here are some basic facts about me:
-🟦 Pronouns: He / him
-
-🔭 I'm currently working on a variety of projects, including:
-- _[Semafix](https://github.com/SaturniNovaDev/Semafix)_, a software that controls traffic automatically
-- _Vertex Engine_, a videogame engine with various advanced features
-
-  And more to come!
+🟦 Pronouns: He / Him
 
 🌱 I'm currently learning many languages, including Python, JavaScript, C and C++.
 
